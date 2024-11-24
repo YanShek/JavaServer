@@ -2,16 +2,6 @@
 
 A Java-based server application for managing course registrations and retrieving course information.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Data Files](#data-files)
-- [Future Enhancements](#future-enhancements)
-
----
-
 ## Overview
 This project implements a server-side application that handles two main functionalities:
 1. **Course Registration**: Accepts and processes user registrations for specific courses.
@@ -28,4 +18,3 @@ The server is built using Java's networking and I/O capabilities, featuring a mo
 
 ---
 
-## Project Structure
